@@ -96,4 +96,4 @@ Project Evaluation Metrics
 
 ✔ Proper README file with project development details.
 
-✔ Follow Python coding standards (PEP 8).
+✔ Follow Python coding standards(PEP 8).
